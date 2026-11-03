@@ -2,7 +2,7 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-A plugin list of [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) for [Typora](https://typora.io).
+A list of [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) plugins for [Typora](https://typora.io).
 
 ## Marketplace Preview
 
